@@ -1,0 +1,25 @@
+{
+  "name": "nodeedu",
+  "version": "1.0.0",
+  "description": "This is Node Tutorial",
+  "main": "blocking.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sachin Prajapati",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "errorhandler": "^1.5.1",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "jade": "^0.29.0",
+    "json": "^11.0.0",
+    "logger": "^0.0.1",
+    "method-override": "^3.0.0",
+    "nano": "^10.1.2",
+    "save": "^2.9.0",
+    "serve-favicon": "^2.5.0",
+    "url": "^0.11.3"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "lodash": "^4.17.21",
+    "nodemon": "^3.0.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "nodesachin",
+  "description": "**Introduction**\r *NPM*, which stands for Node Package Manager, is a package manager for JavaScript and Node.js applications. \r - It is the default package manager for Node.js and is used to install, manage, and share packages (also known as modules or libraries) of JavaScript code. \r - npm simplifies the process of including external libraries and dependencies in your Node.js projects",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC"
+}
