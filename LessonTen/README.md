@@ -293,12 +293,4 @@ app.delete("/blog/:id", (req, res) => {
     <%- include("./partials/footer.ejs") %>
   </body>
 </html>
-```
-
-```javascript
-
-```
-
-```javascript
-
-```
+``` 

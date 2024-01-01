@@ -433,7 +433,7 @@ app.use((req, res) => {
 - We have to change above snippet to reduce complexity because this snippet is common in all ejs files
 - this is called partial or partial templates
 
-- (- vs =) 
+# (- vs =) 
 :- when we use = the it escape the special character and we end with string value instead of html
 :- when we use - means just output the value
 

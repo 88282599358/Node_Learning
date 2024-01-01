@@ -4,6 +4,8 @@
 **Installation**
 1. npm install express
 
+```javascript
+
 const express = require('express')
 
 
@@ -52,3 +54,5 @@ app.use((req, res) => {
     //to send html page
     res.statusCode(404).sendFile('./views/404.html', { root: __dirname })
 })
+
+```

@@ -85,8 +85,8 @@ _NPM_, which stands for Node Package Manager, is a package manager for JavaScrip
    ```
 
    6 . **Math round()**
-   `javascript
+   ```javascript
     console.log(lod.round(4.006));
-    `
+    ```
 
 These are just a few examples of lodash methods. Lodash provides many more utility functions for working with arrays, objects, strings, and more, making it a powerful tool for JavaScript developers. You can explore the full list of lodash methods and their documentation on the official lodash website: https://lodash.com/

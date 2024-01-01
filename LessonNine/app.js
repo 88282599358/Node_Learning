@@ -115,7 +115,6 @@ app.get('/blog', (req, res) => {
       });
   });
 
-
 app.use((req, res) => {
     //to send html page
     res.status(404).render('404', { title: '404' })
